@@ -31,4 +31,4 @@
 
 When editing a post or page, look for the "Media Upload" Button. Click it to add new media to the current page.
 
-![Media Upload Button](http://i.imgur.com/2Oi9s.png)
+![Media Upload Button](http://i.imgur.com/UHs4ovW.png)
