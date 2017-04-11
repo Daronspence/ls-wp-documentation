@@ -7,6 +7,8 @@
 - Give your new post a title and fill in the content area.
 - Click the `Publish` button near the top right hand corner.
 
+---
+
 ## Editing a Post
 
 - Click on `Posts` in the left hand menu.
@@ -15,6 +17,8 @@
 - Click the "Update" button near the top right hand corner.
 
 ![Update Button](http://i.imgur.com/CQvDEZi.png)
+
+---
 
 # Pages
 
@@ -25,6 +29,8 @@
 - Give your new Page a title and fill in the content area.
 - Click the `Publish` button near the top right hand corner.
 
+---
+
 ## Edit a Page
 
 - Click on `Pages` in the left hand menu.
@@ -33,6 +39,8 @@
 - Click the "Update" button near the top right hand corner.
 
 ![Update Button](http://i.imgur.com/CQvDEZi.png)
+
+---
 
 # Media Files (Images, PDFs, etc)
 
