@@ -18,9 +18,17 @@
 - Make your edits.
 - Click the "Update" button near the top right hand corner.
 
+![Update Button](http://i.imgur.com/CQvDEZi.png)
+
 # Media Files (Images, PDFs, etc)
 
 ## Add a Media File
 
 - Click on `Media` in the left hand menu.
 - Drag a file from your computer onto the browser window. The screen should update to show the file upload progress. If that doesn't work, click the "Add New" button near the top of the page and select your file.
+
+## Add Media to a Post/Page/Other
+
+When editing a post or page, look for the "Media Upload" Button. Click it to add new media to the current page.
+
+![Media Upload Button](http://i.imgur.com/2Oi9s.png)
