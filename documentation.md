@@ -7,7 +7,7 @@
 - Make your edits.
 - Click the "Update" button near the top right hand corner.
 
-[http://i.imgur.com/CQvDEZi.png]
+![http://i.imgur.com/CQvDEZi.png]
 
 # Pages
 
