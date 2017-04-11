@@ -1,5 +1,12 @@
 # Posts (Blog)
 
+## Add a Post
+
+- Click on `Posts` in the left hand menu.
+- Click the `Add New` button near the top of the screen.
+- Give your new post a title and fill in the content area.
+- Click the `Publish` button near the top right hand corner.
+
 ## Editing a Post
 
 - Click on `Posts` in the left hand menu.
@@ -10,6 +17,13 @@
 ![Update Button](http://i.imgur.com/CQvDEZi.png)
 
 # Pages
+
+## Add a Page
+
+- Click on `Pages` in the left hand menu.
+- Click the `Add New` button near the top of the screen.
+- Give your new Page a title and fill in the content area.
+- Click the `Publish` button near the top right hand corner.
 
 ## Edit a Page
 
