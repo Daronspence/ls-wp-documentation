@@ -3,3 +3,5 @@
 Different documentation files will be located in this repository. Commits and history may be terrible. 
 
 You have been warned.
+
+Pull requests are welcome!
