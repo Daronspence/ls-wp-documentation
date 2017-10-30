@@ -55,8 +55,14 @@ When editing a post or page, look for the "Media Upload" Button. Click it to add
 
 ![Media Upload Button](http://i.imgur.com/UHs4ovW.png)
 
+# Menus
+
+## Adding a menu item
+
+Navigate to Appearance > Menus from within `wp-admin`. Select the menu you want to edit from the dropdown menu. Choose a new item from the left hand sidebar to add to the menu.
+
 # Demo for Collin
 
 ## Here is a subheading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim viam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
